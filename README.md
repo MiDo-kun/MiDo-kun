@@ -1,7 +1,7 @@
 ## Hey, Jerson here! :wave:
 
 <picture>
-    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDo-kun&hide=scss&langs_count=6&layout=compact&theme=transparent">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDo-kun&hide=scss&langs_count=6&layout=compact&theme=transparent">
 </picture>
 
 An undergraduate student at SKSU-Isulan Campus.
