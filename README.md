@@ -1,4 +1,4 @@
-## Hey, Jerson here! :wave:
+## Hey, Jerson here! <img src="wave.gif" width="3%"/>
 
 -   🌐 My Portolio Website ([http://jerson-dela-cerna.netlify.com/](http://jerson-dela-cerna.netlify.com))
 -   🧔 Read Resume ([https://shorturl.at/cjrHM](https://shorturl.at/cjrHM))
