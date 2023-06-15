@@ -2,11 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" >
-    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDo-kun&hide=scss&langs_count=4">
-
-<!-- ![Top Langs]() -->
-
-
+    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDo-kun&hide=scss&langs_count=4&layout=compact&theme=transparent">
 </picture>
 
 An undergraduate student at SKSU-Isulan Campus.
