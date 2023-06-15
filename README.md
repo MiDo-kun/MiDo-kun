@@ -1,11 +1,15 @@
 ## Hey, Jerson here! :wave:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MiDo-kun&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" >
+    <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiDo-kun&hide=scss&langs_count=4">
+
+<!-- ![Top Langs]() -->
+
+
 </picture>
 
-I'm Jerson T. Dela Cerna,  an undergraduate student at THU.
+An undergraduate student at SKSU-Isulan Campus.
 
 -   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
